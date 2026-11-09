@@ -1,6 +1,6 @@
 {
   "payload": {
-    "archiveUrl": "https://github.com/auto4opt/Creo-Updates/releases/download/robot-v0.1.3/robot-0.1.3-ubuntu22.04-x86_64.tgz?download=1&v=0.1.3",
+    "archiveUrl": "https://api.github.com/repos/auto4opt/Creo-Updates/releases/assets/726415434",
     "machine": "x86_64",
     "machineRevision": "7071fd4f4a941f1219db9745478ce67dcc23cbcf13cd15fb0280e6705a9f9311",
     "managementProtocol": 1,
@@ -12,14 +12,14 @@
     "python_major": 3,
     "python_minor": 10,
     "robotSerial": "unit-a",
-    "sequence": 2026110903,
-    "sha256": "55fd42c376e91fa1e02aaccefb65bd180b3e371c146f5bd5ca660185ba66f2a4",
-    "size": 31877552,
+    "sequence": 2026110905,
+    "sha256": "7c71cf5daf7cdf6e6166ca5322019b9521af8f285b9890b7fbb2ad7eac203828",
+    "size": 31877624,
     "targetOs": {
       "id": "ubuntu",
       "version": "22.04"
     },
-    "version": "robot-0.1.3"
+    "version": "robot-0.1.5"
   },
-  "signature": "PKwhjuMzroaMa8hG4DMNIa/t46F29G34sUqBnwSi0m/2If/PYmxotTQL7FTg8lf9F/LV8qPLVCRqygGBeXZBCQ=="
+  "signature": "XgaPwiXSoDfNiDQb4zoGKgnixZ7WvhBbXL8bIvcdTx+1KZ6bhBjN0Dne32N45HOR2s9N77/pLKkiwav/1vg3Aw=="
 }
