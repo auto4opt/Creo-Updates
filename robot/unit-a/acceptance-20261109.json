@@ -1,6 +1,6 @@
 {
   "payload": {
-    "archiveUrl": "https://github.com/auto4opt/Creo-Updates/releases/download/robot-rollback-validation-20261109/robot-0.1.4-validation-20261109-ubuntu22.04-x86_64.tgz?download=1&v=0.1.4",
+    "archiveUrl": "https://api.github.com/repos/auto4opt/Creo-Updates/releases/assets/726416268",
     "machine": "x86_64",
     "machineRevision": "7071fd4f4a941f1219db9745478ce67dcc23cbcf13cd15fb0280e6705a9f9311",
     "managementProtocol": 1,
@@ -12,14 +12,14 @@
     "python_major": 3,
     "python_minor": 10,
     "robotSerial": "unit-a",
-    "sequence": 2026110904,
-    "sha256": "4bcc82fee67103b26fef0cfb0c2a9cf5d02af191674a28f26ae4b3ba620b2fc6",
-    "size": 31877469,
+    "sequence": 2026110906,
+    "sha256": "a2bb469137e2a4bd70b96ee51ef765140ca05db48bf57559637d65de62fcf7aa",
+    "size": 31877614,
     "targetOs": {
       "id": "ubuntu",
       "version": "22.04"
     },
-    "version": "robot-0.1.4-validation-20261109"
+    "version": "robot-0.1.6-validation-20261109"
   },
-  "signature": "IOYATAj1jZKoxnD/kmGm14AxN/4VOcZwrvYeXImVBNUO5x/3eG9GdZK9tpscMK/ki7HTxLO8MRP/arrP2aU+Aw=="
+  "signature": "FtDeU6mpfSQbY50YDtOCYGergv5Uf8nVpjbcTmdxGwQsGGRi/Z29NiVlaFlMhrIv4HzONdZkjEEl9WkgPLw2Dg=="
 }
