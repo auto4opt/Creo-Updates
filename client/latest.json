@@ -1,15 +1,15 @@
 {
-  "version": "0.8.2",
-  "notes": "优化四模式导航悬停提示；Ubuntu顶栏合并并保留右侧窗口按钮；统一顶栏未使能文案；语言切换区域与两个版本按钮整行等宽。",
-  "pub_date": "2026-11-09T09:51:12.565Z",
+  "version": "0.9.0",
+  "notes": "设置页统一列表布局；三个操作模式统一分段点选；新增故障留档与系统重置入口（需配套工控机重置管理服务）。",
+  "pub_date": "2026-11-09T12:53:17.612Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWXdvakx5bjhyRWVvdnRRWTFLckMxZE1YNVRubk5NeC9qN3pqSjdLVXpYaWQrS0wwcW4vWHB1ZTFaSnpPK3NsMndlbmpLWWo4UnZrSTBRak8rWWxvd254czlxM3BCU1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE2OTIzCWZpbGU6Q3JlbyBTdHVkaW8gT3BlbkFybSBFZGl0aW9uLmFwcC50YXIuZ3oKRjNTdUJTMzJ2a1EzSlFSeFoxUWI2Vm1wYTk4eXNBVm5wM25KZng2aGZhbVdvS2h4V1dZTVViMkJ2YXROazdiaWVySmVBNG1TU2NudVVmQytwaTlnQkE9PQo=",
-      "url": "https://github.com/auto4opt/Creo-Updates/releases/download/studio-v0.8.2/Creo-Studio-OpenArm-0.8.2-macOS-arm64.app.tar.gz?download=1"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWXdvakx5bjhyRVV1eFU2dTRvQ3cxRzVOcjEwVnc2R3E4NnJNVFNLbWZISzBCWGVQR3llVVFxRnBOQVpidWJSYnBXNy9qaDZGQ1oveDlnMXUxUjNMT1JEQW1lTWFvL1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI4MTA5CWZpbGU6Q3JlbyBTdHVkaW8gT3BlbkFybSBFZGl0aW9uLmFwcC50YXIuZ3oKTVROMVdGaHo1OER4RFRaTmwxUE9odEdSVlpEOGgzcFhGMEthS2twWlRERGx5MUZhbkZ4WHNBUmk2UmZicnJzWnFKazZsSlN2V1pTaUlnTEljUnAzRHc9PQo=",
+      "url": "https://github.com/auto4opt/Creo-Updates/releases/download/studio-v0.9/Creo-Studio-OpenArm-0.9-macOS-arm64.app.tar.gz?download=1"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWXdvakx5bjhyRVQ2akFVRFBuRGFjdGlvNkI0aXFhaDYrbENjL2c2KzBFZTZqOTh0czNhOE1iZHVJdVFvdktNMTB0ZDltS3FMRkJDWkF6UWpOYllEbm13NHhNQlg3SEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE3ODcwCWZpbGU6Q3Jlby1TdHVkaW8tT3BlbkFybS0wLjguMi1MaW51eC14ODZfNjQuQXBwSW1hZ2UKZzRPUms4V0c3c2R3ay93akdjQUJTcUJ3RHhBWStHbTFmNlFnczhRWmpLSStTcHV6aHVWL3hEbkh2WkF0eWFYVDZhMXAzdGR6cSthOC91RmNVRGFQQUE9PQo=",
-      "url": "https://github.com/auto4opt/Creo-Updates/releases/download/studio-v0.8.2/Creo-Studio-OpenArm-0.8.2-Linux-x86_64.AppImage?download=1"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWXdvakx5bjhyRVZMVFd4UHNxRWFuU1I0cCt4RDl5Q0lvYTViU1JHVjhtVEVLaElzczQrSHBCUXVSNEh5YS9ub3BFbzRtK28rNGhBYjM2L2ZyQkFlWnpZT2ppT1hZdndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI4Nzk1CWZpbGU6Q3Jlby1TdHVkaW8tT3BlbkFybS0wLjktTGludXgteDg2XzY0LkFwcEltYWdlCks5TndVRjJJQkZzTEVTTmVRRzBiYkl3dEQwS0hQRXl0emQ3ZjRUbExkUVRFbGk5NWt3TlVBa0E4ZDJXNUJsZEMvOUlBN2h3MDVpNXpzUHVXUGVLOUFnPT0K",
+      "url": "https://github.com/auto4opt/Creo-Updates/releases/download/studio-v0.9/Creo-Studio-OpenArm-0.9-Linux-x86_64.AppImage?download=1"
     }
   }
 }
