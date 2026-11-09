@@ -1,6 +1,6 @@
 {
   "payload": {
-    "archiveUrl": "https://api.github.com/repos/auto4opt/Creo-Updates/releases/assets/726415434",
+    "archiveUrl": "https://api.github.com/repos/auto4opt/Creo-Updates/releases/assets/726628343",
     "machine": "x86_64",
     "machineRevision": "7071fd4f4a941f1219db9745478ce67dcc23cbcf13cd15fb0280e6705a9f9311",
     "managementProtocol": 1,
@@ -12,14 +12,14 @@
     "python_major": 3,
     "python_minor": 10,
     "robotSerial": "unit-a",
-    "sequence": 2026110905,
-    "sha256": "7c71cf5daf7cdf6e6166ca5322019b9521af8f285b9890b7fbb2ad7eac203828",
-    "size": 31877624,
+    "sequence": 2026110907,
+    "sha256": "94089a99ff42e241a287358c06e971916dd44be72e5f2afee9fde0fbeb7bc977",
+    "size": 31878312,
     "targetOs": {
       "id": "ubuntu",
       "version": "22.04"
     },
-    "version": "robot-0.1.5"
+    "version": "robot-0.1.7"
   },
-  "signature": "XgaPwiXSoDfNiDQb4zoGKgnixZ7WvhBbXL8bIvcdTx+1KZ6bhBjN0Dne32N45HOR2s9N77/pLKkiwav/1vg3Aw=="
+  "signature": "seZ5TW9up+eXBp4kXn032+BSIo1m4JJ5E4cLPDrhX08SoqVxCS3f2GyZDc0FMl1P/GmeQSn40chvbplmgCWBBQ=="
 }
