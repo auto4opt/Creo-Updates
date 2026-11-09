@@ -1,0 +1,15 @@
+{
+  "version": "0.8.1",
+  "notes": "修复更新检查超时：静态版本清单优先，发布入口回退，资源 API 下载。修复机器人端在线更新被控制连接重置取消。支持 macOS Apple Silicon 和 Linux x86_64。",
+  "pub_date": "2026-11-09T06:25:35Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWXdvakx5bjhyRWNGa2g2dDhza1ErWWdCQUFvK0d2akRGT2pZT2VkYktrcFNWVmlvNFk3OGczL3BDZGk4a200ZkNocWVDSVRCekhyWENZMTgwSUt2S2ZuMHZTT2EzakFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjA1MjcyCWZpbGU6Q3JlbyBTdHVkaW8gT3BlbkFybSBFZGl0aW9uLmFwcC50YXIuZ3oKd0c1d1pDK3VaNHBQd250NVhCQXRJRnA5K2NOb0Z4b0p6K0Y0L29XQnZBaGRYNjhlMEdZa2lCRzgrQmd4YldiTGpHdlRpV2RsNnhQVDZiUUZ3VG5XQ1E9PQo=",
+      "url": "https://api.github.com/repos/auto4opt/Creo-Updates/releases/assets/726459192"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWXdvakx5bjhyRWJKUU1PSlBOeW1TekQ1SmVkOENSZWlOandWQzdmUis2ZVVBVEIrNW92TFJpZ2FidUltcG95bVdTNzUySkI4bW43STB2a00vejNtdXNEaXQrbWQ0dWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjA1NjE4CWZpbGU6Q3Jlby1TdHVkaW8tT3BlbkFybS0wLjguMS1MaW51eC14ODZfNjQuQXBwSW1hZ2UKWWpodlBMNDluR2EvdHMzanRyUGtIMlZrZGROM2FFdVZ2cHFoOUk1UlIwQUNlWEphQ1EvaUxEVUlwYTFvaE5kdm8wcUxjb21xbVltNTdkMS84YUhCRHc9PQo=",
+      "url": "https://api.github.com/repos/auto4opt/Creo-Updates/releases/assets/726459325"
+    }
+  }
+}
