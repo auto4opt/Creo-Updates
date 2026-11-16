@@ -1,19 +1,19 @@
 {
-  "version": "0.11.1",
-  "notes": "SOP fixes for teaching, payload reconfirmation, safety stop, diagnostics, system reset, and update checks.",
-  "pub_date": "2026-11-15T13:12:01+00:00",
+  "version": "0.11.7",
+  "notes": "Creo Studio | OpenArm Edition 0.11.7",
+  "pub_date": "2026-11-16T11:28:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWXdvakx5bjhyRVRISmkwRm53eXZHMWZacHJWWHIra2JNbk9HeW5CVmFRZEY0K3RwR1ZoNEdtUTNxSDBnTmUwZzRoMks5U01OOG02OU1KbHN2VVk0TWVLdjZNaXlwbndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ3MjQzCWZpbGU6Q3JlbyBTdHVkaW8gT3BlbkFybSBFZGl0aW9uLmFwcC50YXIuZ3oKS1VxZ05lMXVseVh5clVwcE9acGJPT0doSTUrMXlWQVM3c3ZhSlpzeXRYdzU3Sm9MS2YydDRiUmxwZ2JFN2FiTnVyaHN1c3M2aEMwN0FwYVcyRGFXQ2c9PQo=",
-      "url": "https://github.com/auto4opt/Creo-Updates/releases/download/studio-v0.11.1/Creo-Studio-OpenArm-0.11.1-macOS-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWXdvakx5bjhyRVYwUG9aSVlRNXprOFFCcGVIdWw2RFk0eHJzWlJYdUhSK01RTDZhMXYrWFViREF0SWNkeXJQNnQ0elc3ck1GbmJ3UHlTNUgvMFdSVy9YOGx0Q0JPN2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI3Mjc0CWZpbGU6Q3JlbyBTdHVkaW8gT3BlbkFybSBFZGl0aW9uLmFwcC50YXIuZ3oKeGwvTkZTaWQyRWxGZ2JlMDl3QVBKNlMyVGFGZURoS1Fab3ZnUythTTAwMVVZckdsWnVXRG0xcHM1b1pQc2ZBanpMWGNrbWtyT0NZK05EakVGV1ZHRFE9PQo=",
+      "url": "https://github.com/auto4opt/Creo-Updates/releases/download/studio-v0.11.7/Creo-Studio-OpenArm-0.11.7-macOS-arm64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWXdvakx5bjhyRWNiNXQyeGREN1VsU3NHeTdIU3NSZlcwR2dGTkNVWWVsODdZemFhR0lFQWhTZW5EUHNrRno0ZGRxNEpWdW1xTjlPWFdKSGFxQ0d3bVc3QllLTXRTOHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ4MzIxCWZpbGU6Q3Jlby1TdHVkaW8tT3BlbkFybS0wLjExLjEtTGludXgteDg2XzY0LkFwcEltYWdlCkdEeWFUQVBhSklxTkQvYUpKSHlLUHRwd2RmVXhyYUw5RHNLODJDRGhNUVpRYUZqY25TMldlR3ZOYkVXR2ZlU2xITmYxWCt0RVFOSEZ0eUtVQVhJb0RRPT0K",
-      "url": "https://github.com/auto4opt/Creo-Updates/releases/download/studio-v0.11.1/Creo-Studio-OpenArm-0.11.1-Linux-x86_64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWXdvakx5bjhyRVdMbDJtcFRwYzBzREUzTU9ZWWZHSTBGZWgxcGFBTnhiYXh4VWtTL3ZINW51OCtPWTZkeWZmenVreXcvK2ZQdEJjQ0pPQ3JDcXBPMUlUZUlGRDRqRGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI4NDk1CWZpbGU6Q3Jlby1TdHVkaW8tT3BlbkFybS0wLjExLjctTGludXgteDg2XzY0LkFwcEltYWdlCnBQeDJ6RFcvOHdLdWhEMmFYbzZxVCtWR0pUWUc3aGk4VktWd3VNK0liMTdWZmZYd0t0dlRVVzFTRUhnZitxRVZ5TUFiMStMU0ZnNlJjUmtOV01kU0F3PT0K",
+      "url": "https://github.com/auto4opt/Creo-Updates/releases/download/studio-v0.11.7/Creo-Studio-OpenArm-0.11.7-Linux-x86_64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWXdvakx5bjhyRWNLK1dycXp3cGIveWI4ZVpJdEx0RjBqVFQ0Y3ptTUU2YklTYUZyNDc4ZFdIV21JbGlwVGRkcFp5NmNDcTRHME5CYzZHY0drdTY5UlExeFUxWklqY2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ4MzIxCWZpbGU6Q3Jlby1TdHVkaW8tT3BlbkFybS0wLjExLjEtTGludXgteDg2XzY0LmRlYgpMTXNpNW9kREJsYlF0aW1YczhNQ1hiVGw1RnR4UThvOTJQRVpWeXdjamVZMkNhR0tQV3RxM094QXNCMTZNbktSSDJyVHRJV1c4YThNUTd4MlpBWlREdz09Cg==",
-      "url": "https://github.com/auto4opt/Creo-Updates/releases/download/studio-v0.11.1/Creo-Studio-OpenArm-0.11.1-Linux-x86_64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWXdvakx5bjhyRVVCYUd2RStsczNNNGQ1T2JXMTNsQUZXZzlxblZQbGZybXhJeHZpQWJoMU8xcmtTMDFibEk4OVE2cVdLYUxRSWVHTUJxUS9JSjl5WExHMWRuQVdKVWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI4NDk3CWZpbGU6Q3Jlby1TdHVkaW8tT3BlbkFybS0wLjExLjctTGludXgteDg2XzY0LmRlYgoyS1VFUTcvK1lDVnN0WWVPc09CZ3RmVE1lV2tBZHZtMHNmeEFLdkFzVUFhc3prNXFqc0krL1dBUjFxV0JqMk1LM2ZmRFRFczhKNXMxcFdmbG9aSk1BZz09Cg==",
+      "url": "https://github.com/auto4opt/Creo-Updates/releases/download/studio-v0.11.7/Creo-Studio-OpenArm-0.11.7-Linux-x86_64.deb"
     }
   }
 }
